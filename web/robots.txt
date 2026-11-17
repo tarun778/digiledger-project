@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://44-222-194-40.nip.io/sitemap.xml
